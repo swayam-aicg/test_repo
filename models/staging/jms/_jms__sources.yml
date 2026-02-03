@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: jms
+    schema: raw_jms
+    tables:
+      - name: bookings
+      - name: charges
+      - name: inmates

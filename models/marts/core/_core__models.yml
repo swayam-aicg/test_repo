@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: dim_inmates
+    description: Dimension table for inmates
+  - name: dim_charges
+    description: Dimension table for charges
+  - name: fct_bookings
+    description: Fact table for bookings
+  - name: fct_daily_population
+    description: Daily jail population metrics

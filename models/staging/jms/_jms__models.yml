@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: stg_jms__bookings
+    description: Staged bookings data from JMS
+  - name: stg_jms__charges
+    description: Staged charges data from JMS
+  - name: stg_jms__inmates
+    description: Staged inmates data from JMS

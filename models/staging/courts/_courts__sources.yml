@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: courts
+    schema: raw_courts
+    tables:
+      - name: cases
+      - name: hearings

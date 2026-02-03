@@ -1,0 +1,5 @@
+polk_county_ia:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
