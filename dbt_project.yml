@@ -6,3 +6,20 @@ profile: 'polk_county_ia'
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  dlh_jms_dbt_polk_county_ia:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: ephemeral
+    marts:
+      +materialized: table
