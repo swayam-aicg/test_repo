@@ -3,3 +3,5 @@ polk_county_ia:
   outputs:
     dev:
       type: snowflake
+    prod:
+      tests
