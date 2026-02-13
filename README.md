@@ -2,4 +2,3 @@
 
 ## Overview
 This dbt project transforms raw data.
-ssss
