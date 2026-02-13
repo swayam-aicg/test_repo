@@ -7,4 +7,4 @@ SELECT
     charge_code,
     charge_description
 FROM charges
-GROUP BY 1, 2, 3, 4 
+GROUP BY 1, 2, 3
