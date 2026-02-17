@@ -1,1 +1,1 @@
-SELECT test FROM new_tests WHERE id = 1;
+SELECT test FROM new_tests WHERE id = 1 RESULTS 1;
