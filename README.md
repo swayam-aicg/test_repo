@@ -13,5 +13,3 @@ by
 new test
 
 sdasdsa
-sadasdas
-asdassa
