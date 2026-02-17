@@ -2,4 +2,4 @@
 
 ## Overview
 This dbt project transforms raw data.
-Test Conflict
+Test Conflict with resolve.
