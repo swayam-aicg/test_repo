@@ -1,1 +1,1 @@
-SELECT test FROM new_test;
+SELECT test FROM new_tests;
