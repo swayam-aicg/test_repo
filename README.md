@@ -8,6 +8,3 @@ line
 
 
 by 
-
-
-line
